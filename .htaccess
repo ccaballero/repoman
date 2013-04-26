@@ -1,0 +1,9 @@
+Options Indexes
+    IndexOptions Charset=UTF-8 FancyIndexing HTMLTable SuppressIcon SuppressDescription SuppressRules XHTML FoldersFirst
+    IndexIgnore include css img favicon.ico
+    IndexStyleSheet "/include/css/style.css"
+
+    HeaderName /include/header.html
+    ReadmeName /include/footer.html
+
+    AddType text/plain .md5
