@@ -5,7 +5,11 @@
         <title>repositorios de software libre</title>
         <link rel="stylesheet" href="/include/css/style.css" type="text/css" />
         <link rel="stylesheet" href="/include/css/frontpage.css" type="text/css" />
+        <link rel="stylesheet" href="/css/ui-lightness/jquery-ui-1.10.1.custom.min.css" media="screen" type="text/css" />
         <link rel="shortcut icon" href="/favicon.ico" />
+        <script src="/include/js/jquery-1.9.1.js"></script>
+        <script src="/include/js/jquery-ui-1.10.1.custom.min.js"></script>
+        <script src="/include/js/espresso.js"></script>
     </head>
     <body>
     <?php include './include/header.html' ?>
@@ -40,7 +44,7 @@
 
         foreach ($directories as $directory) {
             if (is_dir("$path/$directory")) {
-                if ($directory <> '.' && $directory <> '..' && 
+                if ($directory <> '.' && $directory <> '..' && $directory <> '.git' && 
                     $directory <> 'lost+found' && $directory <> 'include' && $directory <> 'logs') {
                     $list[] = $directory;
                 }
@@ -53,7 +57,7 @@
             $img = file_exists("$path/include/img/distros/$element.png") ? $element : 'blank';
             $title = (isset($translations[$element]['title'])) ? $translations[$element]['title'] : $element;
 
-            echo '<div class="block"><div class="logo">';
+            echo '<div class="tooltip block" title="qwer"><div class="logo">';
             echo '<a href="/' . $element . '/">';
             echo '<img src="/include/img/distros/' . $img . '.png" alt="" title="" /></a>';
             echo '</div><div class="alt"><a href="/' . $element . '">' . $title . '</a></div></div>';

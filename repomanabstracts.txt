@@ -1,0 +1,91 @@
+Chakra Linux
+
+Distribución GNU/Linux libre, amigable al usuario, y extremadamente potente nacida a partir de Arch Linux, basada en un modelo de liberación semi-continua, centrada en el software KDE
+
+Centos
+CentOS es una distribución de Linux basada en los fuentes libremente disponibles de Red Hat Enterprise Linux. Cada versión de CentOS es mantenida durante 7 años (por medio de actualizaciones de seguridad). Las versiones nuevas son liberadas cada 2 años y actualizadas regularmente (cada 6 meses) para el soporte de hardware nuevo. 
+OpenSuse 
+SUSE Linux es una de las más conocidas distribuciones Linux existentes a nivel mundial, se basó en sus orígenes en Slackware. Entre las principales virtudes de esta distribución se encuentra el que sea una de las más sencillas de instalar y administrar, ya que cuenta con varios asistentes gráficos para completar diversas tareas en especial por su gran herramienta de instalación y configuración YasT.
+
+Gentoo
+
+Gentoo Linux es una distribución Linux orientada a usuarios con cierta experiencia en estos sistemas operativos, fue fundada por Daniel Robbins, basada en la inactiva distribución llamada Enoch Linux. En el año2002, esta última pasó a denominarse Gentoo Linux. El nombre Gentoo proviene del nombre en inglés del pingüino papúa. Nótese que la mascota de Linux llamada tux es un pingüino.
+
+
+
+
+
+
+Ubuntu
+
+Ubuntu es una distribución GNU/Linux basada en Debian GNU/Linux que proporciona un sistema operativo actualizado y estable para el usuario medio, con un fuerte enfoque en la facilidad de uso e instalación del sistema. 
+Ubuntu es una distribución de Linux de tipo escritorio, basada en Debian, patrocinada por Canonical Ltda, empresa cuyo dueño es el sudafricano Mark Shuttleworth. 
+
+Backtrack
+
+BackTrack  es la distribución live más famosa enfocada a pruebas de penetración  "La navaja suiza de las evaluaciones de seguridad". Sin que sea necesario realizar instalación alguna, la plataforma de análisis se inicia directamente desde el CDROM o DVD. Esto literalmente asciende a BackTrack de un Live CD a una distribución completamente plena.
+
+
+
+
+
+
+Debian
+
+La combinación de la filosofía y metodología de Debian, las herramientas GNU, el núcleo Linux, y otro software libre importante, forman una distribución de software única llamada Debian GNU/Linux. Esta distribución está formada por un gran número de paquetes. Cada paquete en la distribución contiene ejecutables, scripts, documentación e información de configuración, y tiene un encargado, quien es el principal responsable de mantener el paquete actualizado, hacer un seguimiento de los informes de fallo y comunicarse con los autores principales del programa empaquetado. Nuestra gran base de usuarios en conjunto con nuestro sistema de seguimiento de fallos aseguran que los problemas se encuentren y resuelvan rápidamente. 
+
+FreeBSD
+
+reeBSD es un avanzado sistema operativo para arquitecturas x86 compatibles (incluyendo Pentium® y Athlon™), amd64 compatibles (incluyendo Opteron™, Athlon™64 y EM64T), Alpha/AXP, IA-64, PC-98 y UltraSPARC®. FreeBSD es un derivado de BSD, la versión de UNIX® desarrollada en la Universidad de California, Berkeley. FreeBSD es desarrollado y mantenido por un numeroso equipo de personas. El soporte para otras arquitecturas está en diferentes fases de desarrollo.
+
+Knopix
+
+Knoppix es una distribución de Linux, basada en GNU Debian Linux, pero con la cualidad, que puede correr desde un CDRom, sin necesidad de ser instalada, ni de utilizar un disco rígido.
+
+
+
+
+
+
+
+
+
+Mandriva
+
+Mandriva es un sistema Operativo tipo Unix, basado en el conjunto de aplicaciones Libres GNU y el kernel Linux, y en el mundo de los sistemas operativos GNU/Linux, Mandriva es lo que se conoce como una distribución o distro GNU/Linux.
+
+Es una distribución de origen Frances, pero con un gran soporte multinacional, por lo que al instalar mandriva podran usarla en su idioma natal, en este caso el soporte a el idioma Español es muy amplio, tanto en las aplicaciones propias de Mandriva como lo es el Centro de Control, como en incluir los paquetes de idiomas español para muchos otros programas, asi como los escritorios Kde, Gnome, Xfce, etc, y sin olvidar la documentación Oficial de mandriva
+
+PuppyLinux
+
+Puppy Linux es un sistema operativo creado en 2003 por el australiano Barry Kauler. El sistema se construyó desde cero, no está basado en ninguna distribución GNU/Linux. Se destaca por la cantidad de herramientas concentradas en su reducido tamaño, 150MB como máximo en las versiones originales, y por ser capaz de arrancar en casi cualquier computadora, nueva o antigua, para funcionar totalmente en la memoria RAM. Aunque se puede instalar en un disco rígido, Puppy Linux está diseñado para arrancar desde CD o DVD, así como unidades USB (pendrives, tarjetas de memoria, etc.). También es posible guardar un archivo de sesión en el disco rígido o en una unidad USB. El archivo de sesión guarda todos los datos, ajustes y aplicaciones instaladas del usuario, simulando una instalación de verdad, lo que lo convierte en un sistema portátil, siempre que el medio donde se guarda el archivo de sesión sea extraíble (si se guarda en el disco rígido no se puede llevar la información de sesión a otra máquina). Otras modalidades de uso son la instalación frugal, que también simula una instalación completa pero en realidad se guarda en una carpeta en el disco rígido (no requiere de CD u otro medio), y el DVD multisesión, que guarda el archivo de sesión directamente en el live DVD hasta que se acaba el espacio disponible (requiere dejar el DVD abierto a nuevas grabaciones). 
+
+Slackware
+
+Slackware Linux es una distribución de Linux. Es una de las más antiguas distribuciones y la más antigua de las activamente mantenidas en la actualidad. En su última versión, la 12.0, Slackware incluye la versión del kernel Linux 2.6.21.5 y Glibc 2.5. Contiene un programa de instalación fácil de utilizar, extensa documentación, y un sistema de gestión de paquetes basado en menús. Una instalación completa incluye el sistema de ventanas X (7.2.0) ; entornos de escritorio como KDE (3.5.7) (hasta la versión 10.1 estuvo incluido GNOME) o XFce (4.4.1); entornos de desarrollo para C/C++, Perl, Python, Java, LISP; utilidades de red, servidores de correo, de noticias (INN), HTTP (Apache) o FTP; programas de diseño gráfico como The GIMP; navegadores web como Konqueror o Firefox, entre otras muchas aplicaciones.
+
+Trisquel es un sistema operativo totalmente libre basado en Ubuntu GNU/Linux, para usuarios domésticos, pequeñas empresas y centros educativos. Trisquel es un proyecto que inició su andadura en 2004 con el apoyo de la Universidad de Vigo (Pontevedra – España).
+
+
+Uremix
+
+Uremix Linux es una distribución GNU/Linux basada actualmente en Ubuntu, hecha por el Grupo Uremix desarrollada inicialmente por estudiantes de la Universidad Autónoma Gabriel Rene Moreno (UAGRM) el cual esta enfocada a la adaptación de un sistema operativo basado en el Núcleo Linux a la sociedad cruceña. 
+
+ArchLinux
+
+Arch Linux. Es una distribución GNU/Linux diseñada para ser liviana y simple. El enfoque de su diseño se centra en simplicidad, elegancia, coherencia de código y minimalismo. Está basada originalmente en las ideas de CRUX, otra distribución minimalista desarrollada por Per Lidén. Fue creada en marzo de 2002 por Judd Vinet. Desde entonces Arch es una distribución en evolución constante, por lo que las versiones publicadas en su sitio Web oficial son sencillamente “capturas” del estado de evolución actual.
+
+Fedora
+
+Fedora antes Fedora Core (tcc Fedora Linux), es una distribución GNU/Linux desarrollada por la comunidad Fedora y promovida por la compañía estadounidense Red Hat.
+Para propósitos generales basada en RPM
+FOS-OBI es una remasterizacion GNU/Linux basada  en Ubuntu, elaborado por la SCESI (Sociedad Cientifica de Estudiantes de Sistemas e Informática ) orientada a la facilidad sobre el manejo y configuracion de un sistema operativo basado en el Núcleo Linux para la comunidad boliviana.
+
+Linux Mint
+
+Bueno Linux Mint es una distribución del sistema operativo GNU/Linux, basado en la distribución Ubuntu (que a su vez está basada en Debian). A partir del 7 de septiembre de 2010 también está disponible una edición basada en Debian.  
+
+OBI es una remasterizacion GNU/Linux basada  en Ubuntu, elaborado por la SCESI (Sociedad Cientifica de Estudiantes de Sistemas e Informática ) orientada a la facilidad sobre el manejo y configuracion de un sistema operativo y entrenamiento para las olimpiadas estudiantiles de informatica, basado en el Núcleo Linux para la comunidad estudiantil boliviana.
+
+Mageia. Una nueva distribución Linux, es una bifurcación (fork) de Mandriva Linux, apoyada por una organización sin fines de lucro de contribuyentes elegidos y reconocidos. 
+Es un sistema operativo libre basado en GNU/Linux. Es un proyecto comunitario, soportado por una organización sin ánimo de lucro de contribuidores electos
